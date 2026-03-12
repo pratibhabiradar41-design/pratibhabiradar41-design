@@ -6,10 +6,7 @@
 
 ---
 
-## 👀 Profile Visitors:
-![Visitor Count](https://komarev.com/ghpvc/?username=Adarshpg&color=blue&style=for-the-badge)
 
----
 
 ### 💻 About Me
 I’m a **student** currently building modern and responsive websites.  
